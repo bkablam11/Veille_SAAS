@@ -1,0 +1,15 @@
+Lien iframe
+Introduction SAAS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pabtjWcIwLw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Comprendre le cloud computing et ses modèles
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Al-E4C69UmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+README
+Dans cette vidéo, je vous explique les différents types de cloud :
+- Qu'est ce que le IaaS  (Infrastructure as a Service) ?
+- Qu'est ce que le PaaS  (Platform as a Service) ?
+- Qu'est ce que le SaaS  (Software as a Service) ?
+- Qu'est ce que le CaaS  (Container as a Service) ?
+- Qu'est ce que le FaaS  (Function as a Service) ?
+- Quelle est la différence entre ces différents types de cloud (spécificité et cas d'usage) ?
